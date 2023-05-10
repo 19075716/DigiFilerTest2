@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DT2/.vs/DT2/v17
+/DT2/.vs/DT2/FileContentIndex
